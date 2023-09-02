@@ -57,7 +57,7 @@ background-position: center
 
 ### Economía de la Educación
 
-* Factores individuales que afectan la demanda de educación en ingenieria
+* Factores individuales que afectan la demanda de educación en ingeniería
 * Rendimiento académico y deserción
 
 GEMTE
@@ -78,7 +78,7 @@ name: colors
 |:--------|:----------------------------------------------------------------------------------------------------------|
 | **1.**  | Estimación de los costos mínimos  y asequibiliad de una dieta suficiente en energía, una dieta adecuada en nutrientes y una dieta saludable para la población urbana de Cali.|
 | **2.**  | Constricción de paquete R para determinar los costos mínimos y su asequibilidad para las tres dietas (CoCO, CoNA , CoRD).|
-| **3.**  | Estacionalidad en de los costos mínimos de una dieta adecuada en nitrientes para hogares urbanos de Cali.|
+| **3.**  | Estacionalidad en de los costos mínimos de una dieta adecuada en nutrientes para hogares urbanos de Cali.|
 
 
 
@@ -115,9 +115,11 @@ knitr::include_graphics("img/equipo.png")
 
 * Observatorio sobre tema que nos una
 
-* Unidad de análitica
+* Unidad de analítica
 
 * Conectar la investigación con la consultoria
+
+* Buscar aliados internos o externos para fortalecer nuestras líneas de investigación
 
 ---
 
