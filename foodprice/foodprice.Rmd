@@ -57,7 +57,7 @@ background-position: center
 
 ### Economía de la Educación
 
-* Elección de la carrera
+* Factores individuales que afectan la demanda de educación en ingenieria
 * Rendimiento académico y deserción
 
 GEMTE
@@ -98,7 +98,7 @@ knitr::include_graphics("img/diagrama.png")
 | Serbio Barona - economista-filósofo                   | x                  | x                   | x  |
 | Heydi Valencia - nutricionista                        | x                  |                     |    |
 | Juan Camilo Ordoñez - estadístico                     |                    | x                   | x  |
-| Estudiantes de maestria                               |                    |                     | x  |   
+| Estudiantes de posgrado                               |                    |                     | x  |   
 
 
 ```{r, echo=FALSE, out.width="50%", fig.align = "center"}
@@ -110,6 +110,14 @@ knitr::include_graphics("img/equipo.png")
 ### **Plaza Colombia**
 
 *  https://plasacolombia.com/nosotros/
+
+### **Oportunidades**
+
+* Observatorio sobre tema que nos una
+
+* Unidad de análitica
+
+* Conectar la investigación con la consultoria
 
 ---
 
