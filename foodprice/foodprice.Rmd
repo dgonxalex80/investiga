@@ -125,4 +125,9 @@ knitr::include_graphics("img/equipo.png")
 
 class: center, middle
 
+**Daniel Enrique González Gómez** <br/>
+dgonzalez@javerianacali.edu.co <br/>
+oficina 1-26 DCMT <br/>
+cel : 316-391 37 02 <br/><br/>
+
 # Gracias!
