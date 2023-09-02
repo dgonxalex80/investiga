@@ -1,0 +1,112 @@
+---
+title: "Jornada de investigación"
+subtitle: "Departamento de Ciencias Naturales y Matemáticas"  
+author: 
+  - "Daniel Enrique González Gómez"
+date: '`r Sys.Date()`'
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: xaringan-themer.css
+    nature:
+      slideNumberFormat: "%current%"
+      highlightStyle: github
+      highlightLines: false
+      ratio: 16:9
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  fig.width=9, fig.height=3.5, fig.retina=3,
+  out.width = "100%",
+  cache = FALSE,
+  echo = TRUE,
+  message = FALSE, 
+  warning = FALSE,
+  hiline = TRUE
+)
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(
+  primary_color = "#0073E6",
+  secondary_color = "#80BFFF",
+  inverse_header_color = "#0059B3"
+)
+```
+
+class: inverse, center, middle
+background-image: url(img/fondo0.png)  /* Reemplaza "path_to_image.png" con la ruta de tu imagen de fondo */
+background-size: 100% 100%
+background-position: center
+
+# Jornada de investigación
+### Departamento de Ciencias Naturales y Matemáticas  
+
+<br/>
+
+### Daniel Enrique González Gómez
+### septiembre 2 de 2023
+
+---
+
+# **Lineas de investigación**
+
+### Economia de la Educación
+
+* Elección de la carrera
+* Rendimiento académico y deserción
+
+GEMTE
+
+### **Calidad de aire **
+
+* Análisis de series de tiempo para la predicción de ozono en Cali
+* Indice de calidad del aire
+* Predicción de la calidad del aire
+
+PML
+---
+name: colors
+
+### **Sistemas alimentarios**
+
+* Estimación de los costos mínimos  y asequibiliad de una dieta suficiente en energía, una dieta adecuada en nutrientes y una dieta saludable para la población urbana de Cali.
+
+* Constricción de paquete R para determinar los costos mínimos y su asequibilidad.
+
+* Estacionalidad en de los costos mínimos de una dieta adecuada en nitrientes para hogares urbanos de Cali.
+
+
+
+```{r, echo=FALSE, out.width="70%", fig.align = "center"}
+knitr::include_graphics("img/diagrama.png")
+```
+---
+
+###  **Equipo** 
+
+|Equipos                                                | $\hspace{.5cm}$ 1  | $\hspace{.5cm}$  2  |
+|:----------------------------------------------------- |:------------------:|:-------------------:|
+| Ana Milena Yioshoka - FCEA                            | x                  | x                   | 
+| Luis Eduardo Girón - FCEA                             | x                  | x                   |
+| Maria del Pilar Zea - FS                              | x                  | x                   |
+| Daniel Enrique González - FIC                         | x                  | x                   |
+| Serbio Barona - economista-filósofo                   | x                  | x                   |
+| Heydi Valencia - nutricionista                        | x                  | x                   |
+| Juan Camilo Ordoñez - estadístico                     | x                  | x                   |
+|                                                       |                    |                     |
+
+---
+
+### **Plaza Colombia**
+
+*  https://plasacolombia.com/nosotros/
+
+---
+class: center, middle
+
+# Gracias!
